@@ -47,3 +47,6 @@ form input.equal{
 form input.operator{
     color: #33ffd8;
 }
+form input.redcolor{
+    color: red;
+}
